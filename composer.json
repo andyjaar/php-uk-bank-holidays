@@ -1,6 +1,6 @@
 {
-    "name": "rapidwebltd/php-uk-bank-holidays",
-    "description": "This library enables developers to easily retrieve UK Bank Holiday details. Holidays can be retrieved for England & Wales, Scotland, and Northern Ireland. Information about these holidays can optionally be restricted by month or date.",
+    "name": "andyjaar/php-uk-bank-holidays",
+    "description": "Forked from rapidwebltd/php-uk-bank-holidays just to remove any use of loaded Laravel classes. This library enables developers to easily retrieve UK Bank Holiday details. Holidays can be retrieved for England & Wales, Scotland, and Northern Ireland. Information about these holidays can optionally be restricted by month or date.",
     "license": "LGPL-3.0-only",
     "keywords": [
         "bank holidays",
